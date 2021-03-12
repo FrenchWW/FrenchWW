@@ -1,11 +1,19 @@
-### Hi there 👋
+<!-- Credit to Kqzz for profile inspiration -->
 
+<img align="center" src="https://raw.githubusercontent.com/FrenchWW/FrenchWW/master/top.svg"/>
 
-- 🔭 I’m currently working on pmmp plugins
-- 🌱 I’m currently learning html css
-- ⚡ Fun fact: A day back, is a day foward.
+<h1 align=center>hi, i'm FrenchWW</h1>
+  <p align=center>
+      Discord: Owas#0001
+    </br>
+    Twitter: https://twitter.com/Owas 
+    </br>
+  </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=FrenchWW&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="FrenchWW" /></p>
 
-![FrenchWW Github Stats](https://github-readme-stats.vercel.app/api?username=Frenchww&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchWW&theme=dracula&langs_count=10)](#)
-<br >
+<p></p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchWW&show_icons=true&text_color=ED39DC&bg_color=181818&title_color=3EDAFF&icon_color=ffffff" alt="FrenchWW" />
+
+<img align="center" src="https://raw.githubusercontent.com/FrenchWW/FrenchWW/master/bottom.svg"/>
